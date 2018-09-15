@@ -243,6 +243,9 @@
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\main.js" />
+    <Content Include="Scripts\GetGameP.js" />
+    <Content Include="Scripts\webapiclient.js" />
     <Content Include="Scripts\esm\popper-utils.js" />
     <Content Include="Scripts\esm\popper-utils.min.js" />
     <Content Include="Scripts\esm\popper.js" />
@@ -284,10 +287,13 @@
     <Content Include="Scripts\umd\popper-utils.min.js" />
     <Content Include="Scripts\umd\popper.js" />
     <Content Include="Scripts\umd\popper.min.js" />
+    <Content Include="Scripts\WindowAPi.js" />
+    <Content Include="Views\Page\indexhtml.html" />
     <Content Include="Views\Page\JGetPage.html" />
     <Content Include="Views\Page\JPostPage.html" />
     <Content Include="Views\Page\JPutDelPage.html" />
     <Content Include="Views\Page\OGetPage.html" />
+    <Content Include="Views\Page\PgetPage.html" />
     <Content Include="Views\Page\PostPage.html" />
     <Content Include="Views\Page\PutDelPage.html" />
     <Content Include="Web.config" />

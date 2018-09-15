@@ -58,5 +58,11 @@ namespace FinalProject__Part1.Controllers
             return new FilePathResult("~/Views/Page/OGetPage.html", "text/html");
         }
 
+        // promise get page : 
+        public ActionResult indexhtml()
+        {
+            return new FilePathResult("~/Views/Page/indexhtml.html", "text/html");
+        }
+
     }
 }
