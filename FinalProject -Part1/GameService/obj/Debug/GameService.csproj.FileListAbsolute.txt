@@ -10,3 +10,15 @@ C:\Users\Yohad Hakim\source\repos\FinalProject -Part1\GameService\obj\Debug\Game
 C:\Users\Yohad Hakim\source\repos\FinalProject -Part1\GameService\obj\Debug\GameService.csproj.CopyComplete
 C:\Users\Yohad Hakim\source\repos\FinalProject -Part1\GameService\obj\Debug\GameService.dll
 C:\Users\Yohad Hakim\source\repos\FinalProject -Part1\GameService\obj\Debug\GameService.pdb
+D:\Final Project\YohadH\FinalProject -Part1\GameService\bin\Debug\GameService.dll.config
+D:\Final Project\YohadH\FinalProject -Part1\GameService\bin\Debug\GameService.dll
+D:\Final Project\YohadH\FinalProject -Part1\GameService\bin\Debug\GameService.pdb
+D:\Final Project\YohadH\FinalProject -Part1\GameService\bin\Debug\EntityFramework.dll
+D:\Final Project\YohadH\FinalProject -Part1\GameService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Final Project\YohadH\FinalProject -Part1\GameService\bin\Debug\EntityFramework.xml
+D:\Final Project\YohadH\FinalProject -Part1\GameService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Final Project\YohadH\FinalProject -Part1\GameService\obj\Debug\GameService.csprojAssemblyReference.cache
+D:\Final Project\YohadH\FinalProject -Part1\GameService\obj\Debug\GameService.csproj.CoreCompileInputs.cache
+D:\Final Project\YohadH\FinalProject -Part1\GameService\obj\Debug\GameService.csproj.CopyComplete
+D:\Final Project\YohadH\FinalProject -Part1\GameService\obj\Debug\GameService.dll
+D:\Final Project\YohadH\FinalProject -Part1\GameService\obj\Debug\GameService.pdb

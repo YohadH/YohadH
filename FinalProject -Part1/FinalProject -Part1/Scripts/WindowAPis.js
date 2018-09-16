@@ -1,20 +1,17 @@
 ﻿
 function WindowAPi() {
 
-    this.games = { }
-
+    this.games = {}
+    var myWebApiClient = new WebAPIClient(false)
 
     this.getGameJQuery = function () {
-        var myWebApiClient = new WebAPIClient(false)
         var promiseResult = myWebApiClient.fireGet();
         promiseResult.then(
-            (data) => 
-            {
+            (data) => {
                 this.games = data
                 console.log(data)
             },
-            (err) => 
-            {
+            (err) => {
                 console.error(err)
             }
         )
@@ -26,7 +23,7 @@ function WindowAPi() {
             var todo = new GetPGame(this.games[i].game_Name,
                 this.games[i].player1, this.games[i].player2,
                 this.games[i].who_won)
-            $('#results').append(GetPGame.getpPrint())
+            $('#results').append(todo.getpPrint())
             $('#results').append("<br>")
         }
     }
