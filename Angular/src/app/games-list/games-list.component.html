@@ -1,0 +1,28 @@
+<div class="row">
+  <div class="col">
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col-1">#</th>
+          <th scope="col-2">Game Name</th>
+          <th scope="col-2">Player1</th>
+          <th scope="col-2">Player2</th>
+          <th scope="col-2">Who_won</th>
+          <th scope="col-1">
+            <a routerLink="/games/new" class="btn btn-success">Create new Game</a>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let game of games" (click)="selectGame(game)" [class.selected]="selectedGame === game">
+          <th scope="row">{{game.ID}}</th>
+          <td>{{game.Game_Name}}</td>
+          <td>{{game.Player1}}</td>
+          <td>{{game.Player2}}</td>
+          <td>{{game.Who_won ? game.Player1 : game.Player2}}</td>
+          <td><a class="btn btn-primary" [routerLink]="['/games', game.ID]">Details</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
