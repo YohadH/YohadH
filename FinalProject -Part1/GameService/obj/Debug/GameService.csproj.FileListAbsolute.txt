@@ -22,3 +22,15 @@ D:\Final Project\YohadH\FinalProject -Part1\GameService\obj\Debug\GameService.cs
 D:\Final Project\YohadH\FinalProject -Part1\GameService\obj\Debug\GameService.csproj.CopyComplete
 D:\Final Project\YohadH\FinalProject -Part1\GameService\obj\Debug\GameService.dll
 D:\Final Project\YohadH\FinalProject -Part1\GameService\obj\Debug\GameService.pdb
+D:\gold\FinalProject -Part1\GameService\bin\Debug\GameService.dll.config
+D:\gold\FinalProject -Part1\GameService\bin\Debug\GameService.dll
+D:\gold\FinalProject -Part1\GameService\bin\Debug\GameService.pdb
+D:\gold\FinalProject -Part1\GameService\bin\Debug\EntityFramework.dll
+D:\gold\FinalProject -Part1\GameService\bin\Debug\EntityFramework.SqlServer.dll
+D:\gold\FinalProject -Part1\GameService\bin\Debug\EntityFramework.xml
+D:\gold\FinalProject -Part1\GameService\bin\Debug\EntityFramework.SqlServer.xml
+D:\gold\FinalProject -Part1\GameService\obj\Debug\GameService.csprojAssemblyReference.cache
+D:\gold\FinalProject -Part1\GameService\obj\Debug\GameService.csproj.CoreCompileInputs.cache
+D:\gold\FinalProject -Part1\GameService\obj\Debug\GameService.csproj.CopyComplete
+D:\gold\FinalProject -Part1\GameService\obj\Debug\GameService.dll
+D:\gold\FinalProject -Part1\GameService\obj\Debug\GameService.pdb
